@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MRT-whyred™ Kernel by zacky_ma @ Telegram
+kernel.string=MRT-X00TD™ Kernel by DIBANED11
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=whyred
+device.name1=X00TD
 device.name2=
 device.name3=
 device.name4=
